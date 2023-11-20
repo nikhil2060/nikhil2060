@@ -1,7 +1,7 @@
 # 💫 About Me:
 Enthusiastic and curious CSE student with a passion for solving problems through coding. Eager to learn and grow as a software developer, constantly seeking opportunities to expand my knowledge and skillset.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-pandey55&label=Profile%20views&color=0e75b6&style=flat" alt="raj-pandey55" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2060&label=Profile%20views&color=0e75b6&style=flat" alt="raj-pandey55" /> </p>
 
 
 ## 🌐 Socials:
