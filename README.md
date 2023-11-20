@@ -3,8 +3,6 @@
 Enthusiastic and curious CSE student with a passion for solving problems through coding. Eager to learn and grow as a software developer, constantly seeking opportunities to expand my knowledge and skillset.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2060&label=Profile%20views&color=0e75b6&style=flat" alt="raj-pandey55" /> </p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumarnikhil2060/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/itsnikkhil) 
@@ -17,13 +15,8 @@ Enthusiastic and curious CSE student with a passion for solving problems through
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil2060&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2060&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikhil2060&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nikhil2060&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nikhil2060&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
