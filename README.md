@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/raj-pandey55)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/nikhil2060)
 # 💫 About Me:
 Enthusiastic and curious CSE student with a passion for solving problems through coding. Eager to learn and grow as a software developer, constantly seeking opportunities to expand my knowledge and skillset.
 
